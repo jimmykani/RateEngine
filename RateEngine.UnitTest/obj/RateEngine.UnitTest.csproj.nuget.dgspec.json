@@ -1,0 +1,231 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jimmy.thomas-a\\source\\repos\\RateEngine\\RateEngine.UnitTest\\RateEngine.UnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jimmy.thomas-a\\source\\repos\\RateEngine\\RateEngine.Application\\RateEngine.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jimmy.thomas-a\\source\\repos\\RateEngine\\RateEngine.Application\\RateEngine.Application.csproj",
+        "projectName": "RateEngine.Application",
+        "projectPath": "C:\\Users\\jimmy.thomas-a\\source\\repos\\RateEngine\\RateEngine.Application\\RateEngine.Application.csproj",
+        "packagesPath": "C:\\Users\\jimmy.thomas-a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jimmy.thomas-a\\source\\repos\\RateEngine\\RateEngine.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jimmy.thomas-a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\jimmy.thomas-a\\source\\repos\\RateEngine\\RateEngine.Core\\RateEngine.Core.csproj": {
+                "projectPath": "C:\\Users\\jimmy.thomas-a\\source\\repos\\RateEngine\\RateEngine.Core\\RateEngine.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jimmy.thomas-a\\source\\repos\\RateEngine\\RateEngine.Core\\RateEngine.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jimmy.thomas-a\\source\\repos\\RateEngine\\RateEngine.Core\\RateEngine.Core.csproj",
+        "projectName": "RateEngine.Core",
+        "projectPath": "C:\\Users\\jimmy.thomas-a\\source\\repos\\RateEngine\\RateEngine.Core\\RateEngine.Core.csproj",
+        "packagesPath": "C:\\Users\\jimmy.thomas-a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jimmy.thomas-a\\source\\repos\\RateEngine\\RateEngine.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jimmy.thomas-a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jimmy.thomas-a\\source\\repos\\RateEngine\\RateEngine.UnitTest\\RateEngine.UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jimmy.thomas-a\\source\\repos\\RateEngine\\RateEngine.UnitTest\\RateEngine.UnitTest.csproj",
+        "projectName": "RateEngine.UnitTest",
+        "projectPath": "C:\\Users\\jimmy.thomas-a\\source\\repos\\RateEngine\\RateEngine.UnitTest\\RateEngine.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\jimmy.thomas-a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jimmy.thomas-a\\source\\repos\\RateEngine\\RateEngine.UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jimmy.thomas-a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\jimmy.thomas-a\\source\\repos\\RateEngine\\RateEngine.Application\\RateEngine.Application.csproj": {
+                "projectPath": "C:\\Users\\jimmy.thomas-a\\source\\repos\\RateEngine\\RateEngine.Application\\RateEngine.Application.csproj"
+              },
+              "C:\\Users\\jimmy.thomas-a\\source\\repos\\RateEngine\\RateEngine.Core\\RateEngine.Core.csproj": {
+                "projectPath": "C:\\Users\\jimmy.thomas-a\\source\\repos\\RateEngine\\RateEngine.Core\\RateEngine.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.5, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Infrastructure\bin\Debug\netcoreapp2.2\RateEngine.Infrastructure.deps.json
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Infrastructure\bin\Debug\netcoreapp2.2\RateEngine.Infrastructure.dll
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Infrastructure\bin\Debug\netcoreapp2.2\RateEngine.Infrastructure.pdb
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Infrastructure\bin\Debug\netcoreapp2.2\RateEngine.Core.dll
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Infrastructure\bin\Debug\netcoreapp2.2\RateEngine.Core.pdb
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Infrastructure\obj\Debug\netcoreapp2.2\RateEngine.Infrastructure.csprojAssemblyReference.cache
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Infrastructure\obj\Debug\netcoreapp2.2\RateEngine.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Infrastructure\obj\Debug\netcoreapp2.2\RateEngine.Infrastructure.AssemblyInfo.cs
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Infrastructure\obj\Debug\netcoreapp2.2\RateEngine.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Infrastructure\obj\Debug\netcoreapp2.2\RateEngine.Infrastructure.csproj.CopyComplete
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Infrastructure\obj\Debug\netcoreapp2.2\RateEngine.Infrastructure.dll
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Infrastructure\obj\Debug\netcoreapp2.2\RateEngine.Infrastructure.pdb

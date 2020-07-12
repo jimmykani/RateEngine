@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RateEngine.Core/1.0.0": {
+        "runtime": {
+          "RateEngine.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RateEngine.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,85 @@
+[
+  {
+    "name": "Early Bird",
+    "type": "Flat Rate",
+    "totalPrice": 13.00,
+    "entry": {
+      "startTime": "6:00",
+      "endTime": "9:00",
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    },
+    "exit": {
+      "startTime": "15:30",
+      "endTime": "23:30",
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    },
+    "maxDays":  0  
+  },
+  {
+    "name": "Night Rate",
+    "type": "Flat Rate",
+    "totalPrice": 6.50,
+    "entry": {
+      "startTime": "18:00",
+      "endTime": "00:00",
+      "days": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ]
+    },
+    "exit": {
+      "startTime": "18:00",
+      "endTime": "06:00",
+      "days": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ]
+    },
+    "maxDays": 1
+  },
+  {
+    "name": "Weekend Rate",
+    "type": "Flat Rate",
+    "totalPrice": 10.00,
+    "entry": {
+      "startTime": "00:00",
+      "endTime": "00:00",
+      "days": [
+        "Sunday",
+        "Saturday"
+      ]
+    },
+    "exit": {
+      "startTime": "00:00",
+      "endTime": "00:00",
+      "days": [
+        "Sunday",
+        "Monday",
+        "Saturday"
+      ]
+    },
+    "maxDays": 2
+  }
+]

@@ -1,0 +1,9 @@
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Core\bin\Debug\netcoreapp2.2\RateEngine.Core.deps.json
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Core\bin\Debug\netcoreapp2.2\RateEngine.Core.dll
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Core\bin\Debug\netcoreapp2.2\RateEngine.Core.pdb
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Core\obj\Debug\netcoreapp2.2\RateEngine.Core.AssemblyInfoInputs.cache
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Core\obj\Debug\netcoreapp2.2\RateEngine.Core.AssemblyInfo.cs
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Core\obj\Debug\netcoreapp2.2\RateEngine.Core.csproj.CoreCompileInputs.cache
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Core\obj\Debug\netcoreapp2.2\RateEngine.Core.dll
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Core\obj\Debug\netcoreapp2.2\RateEngine.Core.pdb
+C:\Users\jimmy.thomas-a\source\repos\RateEngine\RateEngine.Core\obj\Debug\netcoreapp2.2\RateEngine.Core.csprojAssemblyReference.cache
